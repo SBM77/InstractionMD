@@ -50,4 +50,17 @@
 ![nature](nature.jpg)
 
 
+## Ветки в git
+
+Чтобы посмотреть все ветки git branch
+
+> git branch
+
+
+
+
+
+
+
+
 
