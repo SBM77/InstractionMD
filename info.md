@@ -66,7 +66,9 @@
 > git branch -D branch_name>
 
 
-
+Слияние веток и решение конфликтов:
+Команда для выкачивания информации из ветки branch_name в текущую
+> git merge branch_name
 
 
 
