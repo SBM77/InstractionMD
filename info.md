@@ -56,10 +56,11 @@
 
 > git branch
 
+Для создания ветки:
+> git branch branch_name
 
-
-
-
+Переместиться к ветки branch_name:
+> git chekout branch_name
 
 
 
